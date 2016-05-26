@@ -1,0 +1,13 @@
+{
+	"bot_name": "Video Label Bot",
+	"bot_version": "1.2.3",
+	"telegram_params": {
+		"admins": [ 0 ],
+		"timeout": 10,
+		"timeout_first": 5,
+		"token": "such:sicret",
+		"channels": [
+			"@channel"
+		]
+  }
+}
